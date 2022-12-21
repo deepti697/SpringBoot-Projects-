@@ -1,0 +1,11 @@
+2022-12-16 01:24:16,973 [INFO] com.axis.LoggerdemoApplication [main] Starting LoggerdemoApplication using Java 17.0.4.1 with PID 6864 (D:\Manipal Training Applications\WorkSpace STS(Recordings)\loggerdemo\target\classes started by 91937 in D:\Manipal Training Applications\WorkSpace STS(Recordings)\loggerdemo)
+2022-12-16 01:24:16,975 [INFO] com.axis.LoggerdemoApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-16 01:24:17,569 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-12-16 01:24:17,575 [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-12-16 01:24:17,576 [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-16 01:24:17,634 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-12-16 01:24:17,634 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 630 ms
+2022-12-16 01:24:17,937 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-16 01:24:17,944 [INFO] com.axis.LoggerdemoApplication [main] Started LoggerdemoApplication in 1.358 seconds (process running for 1.832)
+2022-12-16 01:41:03,847 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(25)-127.0.0.1] Application shutdown requested.
+2022-12-16 01:41:03,859 [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(25)-127.0.0.1] Stopping service [Tomcat]
